@@ -1,8 +1,7 @@
-# Next.js + TypeScript + Jest + ESLint
+# Water Stadia
 
-**This example shows how to configure Jest, TypeScript and ESLint to work with Next.js.**  
-**This includes Next.js' built-in support for Global CSS, CSS Modules, and TypeScript!**
+> Applications I've Worked On
 
-## Usage
+Visit: https://water-stadia.vercel.app/
 
-**Just clone this template and get started, theres already a demo component with unit-test files**
+Github: https://github.com/Prottoy2938/water-stadia
