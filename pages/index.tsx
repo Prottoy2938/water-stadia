@@ -60,7 +60,7 @@ const AnswersTable: React.FC = () => {
                     href="https://cluster-11.github.io/open-mind/"
                     _hover={{ cursor: "pointer", textDecoration: "underline" }}
                   >
-                    a web application that you can use to train a machine
+                    A web application that you can use to train a machine
                     learning model and make it recognize certain images
                   </Link>
                 </td>
