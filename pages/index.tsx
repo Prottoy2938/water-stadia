@@ -26,16 +26,21 @@ const AnswersTable: React.FC = () => {
               <tr>
                 <td>
                   <Link
-                    href="https://edrini.xyz/"
+                    href="https://surveywave.xyz/"
                     _hover={{ cursor: "pointer", textDecoration: "underline" }}
                   >
-                    Edrini
+                    SurveyWave
                   </Link>
                 </td>
 
                 <td>
-                  A Web Platform That Helps You Do Surveys and Get Peoples
-                  Feedback
+                  <Link
+                    href="https://surveywave.xyz/"
+                    _hover={{ cursor: "pointer", textDecoration: "underline" }}
+                  >
+                    A Web Platform That Helps You Do Surveys and Get Peoples
+                    Feedback
+                  </Link>
                 </td>
                 <td></td>
               </tr>
@@ -51,8 +56,13 @@ const AnswersTable: React.FC = () => {
                 </td>
 
                 <td>
-                  a web application that you can use to train a machine learning
-                  model and make it recognize certain images
+                  <Link
+                    href="https://cluster-11.github.io/open-mind/"
+                    _hover={{ cursor: "pointer", textDecoration: "underline" }}
+                  >
+                    a web application that you can use to train a machine
+                    learning model and make it recognize certain images
+                  </Link>
                 </td>
                 <td>
                   <Link
@@ -67,7 +77,7 @@ const AnswersTable: React.FC = () => {
               <tr>
                 <td>
                   <Link
-                    href="https://cipher-delta.edrini.xyz/"
+                    href="https://cipher-delta.surveywave.xyz/"
                     _hover={{ cursor: "pointer", textDecoration: "underline" }}
                   >
                     Cipher Delta
@@ -75,7 +85,12 @@ const AnswersTable: React.FC = () => {
                 </td>
 
                 <td>
-                  A web application that helps encode and decode plain content
+                  <Link
+                    href="https://cipher-delta.vercel.app"
+                    _hover={{ cursor: "pointer", textDecoration: "underline" }}
+                  >
+                    A web application that helps encode and decode text content
+                  </Link>
                 </td>
                 <td>
                   <Link
@@ -86,11 +101,37 @@ const AnswersTable: React.FC = () => {
                   </Link>
                 </td>
               </tr>
-
               <tr>
                 <td>
                   <Link
-                    href="https://change-svg-color.edrini.xyz/"
+                    href="https://detect-text-toxicity.vercel.app"
+                    _hover={{ cursor: "pointer", textDecoration: "underline" }}
+                  >
+                    Text Toxicity Detection
+                  </Link>
+                </td>
+
+                <td>
+                  <Link
+                    href="https://detect-text-toxicity.vercel.app"
+                    _hover={{ cursor: "pointer", textDecoration: "underline" }}
+                  >
+                    A webapp that helps you detect text toxicity
+                  </Link>
+                </td>
+                <td>
+                  <Link
+                    href="https://github.com/Prottoy2938/detect-text-toxicity-frontend"
+                    _hover={{ cursor: "pointer", textDecoration: "underline" }}
+                  >
+                    GitHub
+                  </Link>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <Link
+                    href="https://change-svg-color.vercel.app"
                     _hover={{ cursor: "pointer", textDecoration: "underline" }}
                   >
                     Change SVG Color
@@ -98,7 +139,13 @@ const AnswersTable: React.FC = () => {
                 </td>
 
                 <td>
-                  A web application that helps change SVG Color Using CSS Filter
+                  <Link
+                    href="https://change-svg-color.vercel.app"
+                    _hover={{ cursor: "pointer", textDecoration: "underline" }}
+                  >
+                    A web application that helps change SVG Color Using CSS
+                    Filter
+                  </Link>
                 </td>
                 <td>
                   <Link
@@ -120,7 +167,12 @@ const AnswersTable: React.FC = () => {
                 </td>
 
                 <td>
-                  A web application to change/modify webcam stream and record
+                  <Link
+                    href="https://backdrop.vercel.app/"
+                    _hover={{ cursor: "pointer", textDecoration: "underline" }}
+                  >
+                    A web application to change/modify webcam stream and record
+                  </Link>
                 </td>
                 <td>
                   <Link
@@ -141,8 +193,13 @@ const AnswersTable: React.FC = () => {
                   </Link>
                 </td>
                 <td>
-                  A web application that helps you find food dishes and provides
-                  detailed info about them.
+                  <Link
+                    href="https://ingredient.now.sh/"
+                    _hover={{ cursor: "pointer", textDecoration: "underline" }}
+                  >
+                    A web application that helps you find food dishes and
+                    provides detailed info about them.
+                  </Link>
                 </td>
                 <td></td>
               </tr>
