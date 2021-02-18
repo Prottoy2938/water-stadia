@@ -77,7 +77,7 @@ const AnswersTable: React.FC = () => {
               <tr>
                 <td>
                   <Link
-                    href="https://cipher-delta.surveywave.xyz/"
+                    href="https://cipher-delta.vercel.app/"
                     _hover={{ cursor: "pointer", textDecoration: "underline" }}
                   >
                     Cipher Delta
