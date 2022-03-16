@@ -26,7 +26,7 @@ const AnswersTable: React.FC = () => {
               <tr>
                 <td>
                   <Link
-                    href="https://surveywave.xyz/"
+                    href="https://gather-thoughts-prottoy2938.vercel.app"
                     _hover={{ cursor: "pointer", textDecoration: "underline" }}
                   >
                     SurveyWave
@@ -35,7 +35,7 @@ const AnswersTable: React.FC = () => {
 
                 <td>
                   <Link
-                    href="https://surveywave.xyz/"
+                    href="https://gather-thoughts-prottoy2938.vercel.app"
                     _hover={{ cursor: "pointer", textDecoration: "underline" }}
                   >
                     A Web Platform That Helps You Do Surveys and Get Peoples
@@ -186,7 +186,7 @@ const AnswersTable: React.FC = () => {
               <tr>
                 <td>
                   <Link
-                    href="https://ingredient.now.sh/"
+                    href="https://https://ingredient-7uwyyllfe-prottoy2938.vercel.app/"
                     _hover={{ cursor: "pointer", textDecoration: "underline" }}
                   >
                     Ingredient
@@ -194,7 +194,7 @@ const AnswersTable: React.FC = () => {
                 </td>
                 <td>
                   <Link
-                    href="https://ingredient.now.sh/"
+                    href="https://https://ingredient-7uwyyllfe-prottoy2938.vercel.app/"
                     _hover={{ cursor: "pointer", textDecoration: "underline" }}
                   >
                     A web application that helps you find food dishes and
