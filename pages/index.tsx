@@ -44,7 +44,26 @@ const AnswersTable: React.FC = () => {
                 </td>
                 <td></td>
               </tr>
-
+              <tr>
+                <td>
+                  <Link
+                    href="https://ingredient.vercel.app/"
+                    _hover={{ cursor: "pointer", textDecoration: "underline" }}
+                  >
+                    Ingredient
+                  </Link>
+                </td>
+                <td>
+                  <Link
+                    href="https://ingredient.vercel.app/"
+                    _hover={{ cursor: "pointer", textDecoration: "underline" }}
+                  >
+                    A web application that helps you find food dishes and
+                    provides detailed info about them.
+                  </Link>
+                </td>
+                <td></td>
+              </tr>
               <tr>
                 <td>
                   <Link
@@ -182,26 +201,6 @@ const AnswersTable: React.FC = () => {
                     GitHub
                   </Link>
                 </td>
-              </tr>
-              <tr>
-                <td>
-                  <Link
-                    href="https://https://ingredient-7uwyyllfe-prottoy2938.vercel.app/"
-                    _hover={{ cursor: "pointer", textDecoration: "underline" }}
-                  >
-                    Ingredient
-                  </Link>
-                </td>
-                <td>
-                  <Link
-                    href="https://https://ingredient-7uwyyllfe-prottoy2938.vercel.app/"
-                    _hover={{ cursor: "pointer", textDecoration: "underline" }}
-                  >
-                    A web application that helps you find food dishes and
-                    provides detailed info about them.
-                  </Link>
-                </td>
-                <td></td>
               </tr>
             </tbody>
           </table>
